@@ -2,109 +2,132 @@
 <!--  HERO / BANNER        -->
 <!-- ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Youssef%20Osama&fontSize=42&fontAlignY=35&desc=Software%20Developer%20%7C%20Open%20Source%20Builder%20%7C%20Problem%20Solver&descAlignY=55&color=gradient" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&text=Youssef%20Osama&fontSize=44&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Problem%20Solver&descAlignY=60&color=gradient" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YoussefOsama&label=Profile%20Views&color=0e75b6&style=flat" />
-  <img src="https://img.shields.io/github/followers/YoussefOsama?label=Followers&style=flat" />
-  <img src="https://img.shields.io/github/stars/YoussefOsama?label=Stars&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=Youssef-osama33&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://img.shields.io/github/followers/Youssef-osama33?label=Followers&style=flat" />
+  <img src="https://img.shields.io/github/stars/Youssef-osama33?label=Stars&style=flat" />
 </p>
 
 ---
 
-## 🧠 Who Am I?
-I'm **Youssef Osama**, a software developer obsessed with **building things that actually matter**.
+## 💥 Who Am I?
+I'm **Youssef Osama** — a **software architect, AI enthusiast, and problem-solver** who turns **crazy ideas into real, scalable tech products**.  
 
-I don’t just write code.  
-I **solve problems**, **design systems**, and **build tools** that developers can rely on.
+I don’t just code. I **engineer solutions** that last, **automate repetitive tasks**, and **build tools that developers actually use**.  
 
-> My goal is simple:  
-> **Turn ideas into clean, scalable, and impactful software.**
+> "If it doesn’t solve a problem, it doesn’t exist in my world."
 
 ---
 
-## 🚀 My Developer Mindset
-- 🔍 Problem-first, not tool-first
-- 🧩 Simple solutions > complex abstractions
-- 🛠 Reusable code beats one-time scripts
-- 🌍 Tech should serve real people, not just demos
-- 📈 Long-term maintainability over shortcuts
+## 🚀 My Developer Philosophy
+- 🧩 **Problem-first mindset** — tools are secondary  
+- ⚡ **Fast, clean, reusable code** beats complex scripts  
+- 🌍 **Tech for impact** — not just demos  
+- 📈 **Long-term architecture** > quick hacks  
+- ✍️ **Document everything** — if it’s not clear, it’s broken  
 
 ---
 
-## 🎯 What I’m Focused On Right Now
-- ⚙️ Building **Open Source libraries** on GitHub
-- 🧰 Creating **developer utilities & automation tools**
-- 🌐 Projects solving **real-world problems (Arab World focused)**
-- 🧠 Deepening **clean architecture & system design**
-- ✍️ Writing **technical & educational content**
+## 🛠 My Superpowers
 
----
-
-## 🛠 Tech Arsenal
-
-### 👨‍💻 Languages
+### Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
 ![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)
 ![PHP](https://img.shields.io/badge/PHP-black?style=for-the-badge&logo=php)
 
-### 🌐 Web & Backend
+### Web & Backend
 ![HTML5](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3)
 ![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
 ![Node.js](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js)
 
-### 🧰 Tools & Environment
+### Tools & Environment
 ![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
 ![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
+![Docker](https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker)
 
 ---
 
-## 🧩 What You’ll Find On My GitHub
-- ✅ Production-ready projects
-- ✅ Clean, readable codebases
-- ✅ Reusable libraries
-- ✅ Well-documented repositories
-- ✅ Experiments that turn into real tools
-
----
-
-## 📊 GitHub Performance
+## 🌟 Highlighted Projects
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YoussefOsama&show_icons=true&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/Youssef-osama33/Support-Palestine-v1" target="_blank">
+    <img src="https://raw.githubusercontent.com/Youssef-osama33/Support-Palestine-v1/main/assets/banner.png" width="300" />
+    <br>Support Palestine v1 — Advocacy & Tech for a Cause
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YoussefOsama&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/Youssef-osama33/Cs50-Course" target="_blank">
+    <img src="https://raw.githubusercontent.com/Youssef-osama33/Cs50-Course/main/assets/banner.png" width="300" />
+    <br>CS50 Course — Learning & Challenge Projects
+  </a>
+</p>
+
+---
+## 📊 My GitHub Arena
+
+<p align="center">
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Youssef-osama33&show_icons=true&theme=tokyonight&hide_border=false" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoussefOsama&layout=compact&theme=tokyonight&hide_border=true" />
+  <!-- GitHub Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Youssef-osama33&theme=tokyonight&hide_border=false" />
+</p>
+
+<p align="center">
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Youssef-osama33&layout=compact&theme=tokyonight&hide_border=false" />
 </p>
 
 ---
 
-## 🌍 Open To
-- 🤝 Open Source Collaboration
-- 💼 Freelance & Remote Opportunities
-- 🧠 Technical Discussions
-- 🚀 Building impactful ideas together
+## 🌱 My Roadmap
+✔ Build production-ready web apps
+✔ Create AI-powered automation tools
+✔ Contribute to Open Source libraries
+✔ Teach and share knowledge globally
+⬜ Deep dive into Quantum Computing
+⬜ Master Computer Architecture & Electrical Engineering
+⬜ Launch impactful Arabic tech content
+⬜ Build SaaS platforms & scalable systems
+
 
 ---
 
-## 📫 Let’s Connect
-- 💼 LinkedIn: *(add link)*
-- 🌐 Portfolio: *(optional)*
-- 📬 GitHub Discussions / Issues
+🌍 Open To
+
+🤝 Open Source Collaboration
+
+💼 Freelance & Remote Opportunities
+
+🧠 Technical Discussions
+
+🚀 Building impactful tech ideas
+
+
+
+---
+
+📫 Connect With Me
+
+💼 LinkedIn: (add link)
+
+🌐 Portfolio: (optional)
+
+📬 GitHub Discussions / Issues
+
+
 
 ---
 
 <p align="center">
-  <strong>“Code is not the goal. Impact is.”</strong>
-</p>
-
-<p align="center">
+  <strong>“I don’t just write code. I create impact.”</strong>
+</p><p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient"/>
 </p>
