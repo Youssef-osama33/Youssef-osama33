@@ -2,7 +2,7 @@
 <!--  HERO / BANNER        -->
 <!-- ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&text=Youssef%20Osama&fontSize=44&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Problem%20Solver&descAlignY=60&color=gradient" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&text=Youssef%20Osama&fontSize=44&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Problem%20Solver&descAlignY=60&color="gradient" />
 </p>
 
 <p align="center">
