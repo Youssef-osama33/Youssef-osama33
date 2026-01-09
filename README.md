@@ -6,15 +6,15 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Youssef-osama33&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=Youssef-osama33&label=Profile%20Views&color=yellow&style=flat" />
   <img src="https://img.shields.io/github/followers/Youssef-osama33?label=Followers&style=flat" />
   <img src="https://img.shields.io/github/stars/Youssef-osama33?label=Stars&style=flat" />
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C077%20hrs%207%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C077%20hrs%207%20mins-red?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-0.43%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-0.43%20million%20lines%20of%20code-green?style=flat)
 
 ---
 
