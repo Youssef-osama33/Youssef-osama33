@@ -59,12 +59,19 @@ I don’t just code. I **engineer solutions** that last, **automate repetitive t
 
 ## 🌱 My Roadmap
 ✔ Build production-ready web apps
+
 ✔ Create AI-powered automation tools
+
 ✔ Contribute to Open Source libraries
+
 ✔ Teach and share knowledge globally
+
 ⬜ Deep dive into Quantum Computing
+
 ⬜ Master Computer Architecture & Electrical Engineering
+
 ⬜ Launch impactful Arabic tech content
+
 ⬜ Build SaaS platforms & scalable systems
 
 
@@ -86,9 +93,7 @@ I don’t just code. I **engineer solutions** that last, **automate repetitive t
 
 📫 Connect With Me
 
-💼 LinkedIn: (add link)
-
-🌐 Portfolio: (optional)
+💼 LinkedIn: (https://www.linkedin.com/in/youssef-osama-53360a2a1?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 📬 GitHub Discussions / Issues
 
