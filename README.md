@@ -11,6 +11,11 @@
   <img src="https://img.shields.io/github/stars/Youssef-osama33?label=Stars&style=flat" />
 </p>
 
+<!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C077%20hrs%207%20mins-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-0.43%20million%20lines%20of%20code-blue?style=flat)
+
 ---
 
 ## 💥 Who Am I?
@@ -49,41 +54,6 @@ I don’t just code. I **engineer solutions** that last, **automate repetitive t
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
 ![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
 ![Docker](https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker)
-
----
-
-## 🌟 Highlighted Projects
-<p align="center">
-  <a href="https://github.com/Youssef-osama33/Support-Palestine-v1" target="_blank">
-    <img src="https://raw.githubusercontent.com/Youssef-osama33/Support-Palestine-v1/main/assets/banner.png" width="300" />
-    <br>Support Palestine v1 — Advocacy & Tech for a Cause
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Youssef-osama33/Cs50-Course" target="_blank">
-    <img src="https://raw.githubusercontent.com/Youssef-osama33/Cs50-Course/main/assets/banner.png" width="300" />
-    <br>CS50 Course — Learning & Challenge Projects
-  </a>
-</p>
-
----
-## 📊 My GitHub Arena
-
-<p align="center">
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Youssef-osama33&show_icons=true&theme=tokyonight&hide_border=false" />
-</p>
-
-<p align="center">
-  <!-- GitHub Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Youssef-osama33&theme=tokyonight&hide_border=false" />
-</p>
-
-<p align="center">
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Youssef-osama33&layout=compact&theme=tokyonight&hide_border=false" />
-</p>
 
 ---
 
