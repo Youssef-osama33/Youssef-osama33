@@ -1,108 +1,276 @@
-<!-- ===================== -->
-<!--  HERO / BANNER        -->
-<!-- ===================== -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&text=Youssef%20Osama&fontSize=44&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Problem%20Solver&descAlignY=60&color="gradient" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Youssef-osama33&label=Profile%20Views&color=yellow&style=flat" />
-  <img src="https://img.shields.io/github/followers/Youssef-osama33?label=Followers&style=flat" />
-  <img src="https://img.shields.io/github/stars/Youssef-osama33?label=Stars&style=flat" />
-</p>
+<!-- ANIMATED HEADER BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=venom&height=300&text=Youssef%20Osama&fontSize=70&color=0:0f0c29,50:302b63,100:24243e&fontColor=fff&stroke=7B2FBE&strokeWidth=2&animation=twinkling&desc=Software%20Engineer%20%E2%80%A2%20AI%20Builder%20%E2%80%A2%20Arab%20Tech%20Visionary&descSize=18&descAlignY=70" />
 
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C077%20hrs%207%20mins-red?style=flat)
+<!-- TYPING ANIMATION -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=7B2FBE&center=true&vCenter=true&multiline=true&width=700&height=100&lines=I+don't+just+write+code.+I+create+impact.;Building+tools+the+Arab+world+actually+needs.;Full-Stack+%7C+AI+%7C+Open+Source+%7C+Problem+Solver." alt="Typing SVG" />
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-0.43%20million%20lines%20of%20code-green?style=flat)
+<br/>
 
----
+<!-- SOCIAL BADGES -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youssef-osama-53360a2a1)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Youssef-osama33)
+[![Profile Views](https://komarev.com/ghpvc/?username=Youssef-osama33&label=Profile+Views&color=7B2FBE&style=for-the-badge)](https://github.com/Youssef-osama33)
+[![Open to Work](https://img.shields.io/badge/Open%20To-Remote%20%26%20Freelance-00C853?style=for-the-badge&logo=checkmarx&logoColor=white)](#)
 
-## 💥 Who Am I?
-I'm **Youssef Osama** — a **software architect, AI enthusiast, and problem-solver** who turns **crazy ideas into real, scalable tech products**.  
-
-I don’t just code. I **engineer solutions** that last, **automate repetitive tasks**, and **build tools that developers actually use**.  
-
-> "If it doesn’t solve a problem, it doesn’t exist in my world."
+</div>
 
 ---
 
-## 🚀 My Developer Philosophy
-- 🧩 **Problem-first mindset** — tools are secondary  
-- ⚡ **Fast, clean, reusable code** beats complex scripts  
-- 🌍 **Tech for impact** — not just demos  
-- 📈 **Long-term architecture** > quick hacks  
-- ✍️ **Document everything** — if it’s not clear, it’s broken  
+## 🧬 Who Is Youssef?
+
+```python
+class YoussefOsama:
+
+    name       = "Youssef Osama"
+    role       = "Software Engineer & AI Builder"
+    location   = "Egypt 🇪🇬 — Working Remotely 🌍"
+    mission    = "Build tech that solves real problems in the Arab world"
+
+    stack = {
+        "languages"  : ["Python", "JavaScript", "PHP"],
+        "frontend"   : ["React", "Next.js", "HTML5", "CSS3", "TailwindCSS"],
+        "backend"    : ["Node.js", "FastAPI", "Express"],
+        "ai_ml"      : ["LangChain", "OpenAI API", "HuggingFace", "LLM Evaluation"],
+        "devops"     : ["Docker", "Linux", "Git", "GitHub Actions"],
+        "databases"  : ["PostgreSQL", "MongoDB", "Redis"],
+    }
+
+    philosophy = [
+        "Problem-first. Always.",
+        "Ship fast. Iterate faster.",
+        "Open source is a superpower.",
+        "Arab devs deserve world-class tools too.",
+    ]
+
+    currently_building = [
+        "promptvc     → Git for your LLM prompts",
+        "llm-eval-arabic → The benchmark Arabic AI deserves",
+    ]
+
+    def greet(self):
+        return "Let's build something the world hasn't seen yet. 🚀"
+```
 
 ---
 
-## 🛠 My Superpowers
+<div align="center">
 
-### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
-![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)
-![PHP](https://img.shields.io/badge/PHP-black?style=for-the-badge&logo=php)
+## 🚀 Flagship Projects
 
-### Web & Backend
-![HTML5](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3)
-![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
-![Node.js](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js)
+</div>
 
-### Tools & Environment
-![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
-![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
-![Docker](https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker)
+### 🧠 [`promptvc`](https://github.com/Youssef-osama33/promptvc) — Git for LLM Prompts
 
----
+> **The problem:** LLM prompts evolve constantly, but nobody versions them. One wrong change and you've lost your best prompt forever.
+>
+> **The solution:** A CLI tool that brings `git commit`, `git diff`, and `git checkout` to your prompt engineering workflow.
 
-## 🌱 My Roadmap
-✔ Build production-ready web apps
+```bash
+$ promptvc commit -m "v2: added chain-of-thought reasoning"
+$ promptvc diff HEAD~1 HEAD
+$ promptvc checkout v1-baseline
+```
 
-✔ Create AI-powered automation tools
-
-✔ Contribute to Open Source libraries
-
-✔ Teach and share knowledge globally
-
-⬜ Deep dive into Quantum Computing
-
-⬜ Master Computer Architecture & Electrical Engineering
-
-⬜ Launch impactful Arabic tech content
-
-⬜ Build SaaS platforms & scalable systems
-
+![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=flat-square&logo=python&logoColor=white)
+![CLI Tool](https://img.shields.io/badge/Type-CLI%20Tool-7B2FBE?style=flat-square)
+![Stars](https://img.shields.io/github/stars/Youssef-osama33/promptvc?style=flat-square&color=gold)
 
 ---
 
-🌍 Open To
+### 🌍 [`llm-eval-arabic`](https://github.com/Youssef-osama33/llm-eval-arabic) — The Arabic LLM Benchmark
 
-🤝 Open Source Collaboration
+> **The problem:** Arabic has 400M+ speakers across dozens of dialects. Most LLM benchmarks treat Arabic as a single homogeneous language. They're wrong.
+>
+> **The solution:** An open-source platform to evaluate and compare Arabic LLMs across **6 dialects** — Egyptian, Gulf, Levantine, Moroccan, Sudanese, and Modern Standard Arabic — with automated scoring.
 
-💼 Freelance & Remote Opportunities
+```
+Stack: FastAPI + LangChain + Next.js + PostgreSQL
+Dialects: MSA 🇸🇦 | Egyptian 🇪🇬 | Gulf 🇦🇪 | Levantine 🇱🇧 | Moroccan 🇲🇦 | Sudanese 🇸🇩
+```
 
-🧠 Technical Discussions
-
-🚀 Building impactful tech ideas
-
-
-
----
-
-📫 Connect With Me
-
-💼 LinkedIn: (https://www.linkedin.com/in/youssef-osama-53360a2a1?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-
-📬 GitHub Discussions / Issues
-
-
+![Python](https://img.shields.io/badge/Python-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Next.js](https://img.shields.io/badge/Frontend-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![LangChain](https://img.shields.io/badge/AI-LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![Stars](https://img.shields.io/github/stars/Youssef-osama33/llm-eval-arabic?style=flat-square&color=gold)
 
 ---
 
-<p align="center">
-  <strong>“I don’t just write code. I create impact.”</strong>
-</p><p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient"/>
-</p>
+<div align="center">
+
+## 🛠️ Technology Arsenal
+
+</div>
+
+<table align="center">
+<tr>
+  <td align="center" width="160">
+    <strong>⚡ Languages</strong><br/><br/>
+    <img src="https://skillicons.dev/icons?i=python,js,php,bash" />
+  </td>
+  <td align="center" width="160">
+    <strong>🎨 Frontend</strong><br/><br/>
+    <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" />
+  </td>
+  <td align="center" width="160">
+    <strong>⚙️ Backend</strong><br/><br/>
+    <img src="https://skillicons.dev/icons?i=nodejs,fastapi,express" />
+  </td>
+</tr>
+<tr>
+  <td align="center" width="160">
+    <strong>🗄️ Databases</strong><br/><br/>
+    <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis" />
+  </td>
+  <td align="center" width="160">
+    <strong>🚢 DevOps</strong><br/><br/>
+    <img src="https://skillicons.dev/icons?i=docker,linux,git,githubactions" />
+  </td>
+  <td align="center" width="160">
+    <strong>🤖 AI / ML</strong><br/><br/>
+    <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" />
+  </td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## 📊 GitHub Stats
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Youssef-osama33&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=7B2FBE&icon_color=7B2FBE&text_color=ffffff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Youssef-osama33&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7B2FBE&text_color=ffffff"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Youssef-osama33&theme=tokyonight&hide_border=true&background=0D1117&ring=7B2FBE&fire=FF6B6B&currStreakLabel=7B2FBE" />
+
+<br/>
+
+### 🏆 GitHub Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=Youssef-osama33&theme=discord&no-frame=true&no-bg=true&margin-w=4&column=7"/>
+
+<br/>
+
+### 📈 Contribution Activity
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Youssef-osama33&bg_color=0D1117&color=7B2FBE&line=7B2FBE&point=ffffff&area=true&hide_border=true" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 🗺️ The Roadmap
+
+</div>
+
+```
+COMPLETED ████████████████████░░░░  80%
+
+ ✅  Production-ready full-stack web apps
+ ✅  AI-powered automation tools
+ ✅  First open-source contributions
+ ✅  promptvc — LLM prompt versioning CLI
+ ✅  llm-eval-arabic — Arabic LLM benchmark platform
+
+IN PROGRESS ████████░░░░░░░░░░░░░░  40%
+
+ 🔄  Deep dive into Arabic NLP research
+ 🔄  Building SaaS platforms & scalable systems
+ 🔄  Contributing to major open-source AI libraries
+
+UPCOMING ████░░░░░░░░░░░░░░░░░░░░  20%
+
+ ⬜  Launch Arabic tech content & tutorials
+ ⬜  Master Quantum Computing fundamentals
+ ⬜  Computer Architecture & low-level systems
+ ⬜  Build a recognized OSS project with 1k+ stars
+```
+
+---
+
+<div align="center">
+
+## 💡 Philosophy Wall
+
+</div>
+
+<table align="center">
+<tr>
+<td align="center" width="230">
+
+🧩 **Problem-First**
+Tools are secondary.
+Find the pain, then code.
+
+</td>
+<td align="center" width="230">
+
+⚡ **Ship It**
+Done > perfect.
+Deploy, learn, iterate.
+
+</td>
+<td align="center" width="230">
+
+🌍 **Tech for Impact**
+Not demos. Not clones.
+Real solutions for real people.
+
+</td>
+</tr>
+<tr>
+<td align="center" width="230">
+
+📖 **Document Everything**
+If it's not clear,
+it's broken.
+
+</td>
+<td align="center" width="230">
+
+🔓 **Open Source or Die**
+The best ideas
+belong to everyone.
+
+</td>
+<td align="center" width="230">
+
+🇦🇪 **Arab World First**
+400M people.
+Underserved by tech. Not anymore.
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## 🤝 Let's Connect & Collaborate
+
+I'm open to:
+
+🤝 **Open Source Collaboration** — especially Arabic NLP & AI tooling  
+💼 **Freelance & Remote Opportunities** — Full-Stack & AI Engineering  
+🧠 **Technical Discussions** — LLMs, Web Dev, Architecture, APIs  
+🚀 **Building Ambitious Ideas** — if you have the problem, I'll build the solution  
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youssef-osama-53360a2a1)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Youssef-osama33)
+[![Email](https://img.shields.io/badge/Email-Get%20In%20Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youssef@example.com)
+
+<br/><br/>
+
+<!-- FOOTER WAVE -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer&text=Built%20with%20%E2%9D%A4%EF%B8%8F%20from%20Egypt%20%F0%9F%87%AA%F0%9F%87%AC&fontSize=16&fontColor=ffffff&animation=twinkling" />
+
+</div>
