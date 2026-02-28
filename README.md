@@ -140,18 +140,8 @@ Dialects: MSA 🇸🇦 | Egyptian 🇪🇬 | Gulf 🇦🇪 | Levantine 🇱🇧 
 
 ## 📊 GitHub Stats
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Youssef-osama33&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=7B2FBE&icon_color=7B2FBE&text_color=ffffff"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Youssef-osama33&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7B2FBE&text_color=ffffff"/>
-
-<br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Youssef-osama33&theme=tokyonight&hide_border=true&background=0D1117&ring=7B2FBE&fire=FF6B6B&currStreakLabel=7B2FBE" />
-
-<br/>
-
-### 🏆 GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=Youssef-osama33&theme=discord&no-frame=true&no-bg=true&margin-w=4&column=7"/>
 
 <br/>
 
