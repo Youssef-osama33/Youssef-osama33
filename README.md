@@ -26,42 +26,19 @@ Currently studying the Ten Qira'at under Al-Azhar scholars.
 
 ![Python](https://img.shields.io/badge/Python-1f1f1f?style=flat-square&logo=python&logoColor=00AEFF)
 
-
-
-
 ![TypeScript](https://img.shields.io/badge/TypeScript-1f1f1f?style=flat-square&logo=typescript&logoColor=00AEFF)
-
-
-
 
 ![Next.js](https://img.shields.io/badge/Next.js-1f1f1f?style=flat-square&logo=nextdotjs&logoColor=00AEFF)
 
-
-
-
 ![FastAPI](https://img.shields.io/badge/FastAPI-1f1f1f?style=flat-square&logo=fastapi&logoColor=00AEFF)
-
-
-
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1f1f1f?style=flat-square&logo=postgresql&logoColor=00AEFF)
 
-
-
-
 ![Linux](https://img.shields.io/badge/Linux-1f1f1f?style=flat-square&logo=linux&logoColor=00AEFF)
-
-
-
 
 ![LangChain](https://img.shields.io/badge/LangChain-1f1f1f?style=flat-square&logo=langchain&logoColor=00AEFF)
 
-
-
-
 ![Docker](https://img.shields.io/badge/Docker-1f1f1f?style=flat-square&logo=docker&logoColor=00AEFF)
-
-
 
 <br>
 
