@@ -8,22 +8,10 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
-      - uses: actions/checkout@v3
-
-      - name: Generate Stats Images
-        uses: Readme-Workflows/github-stats-transparent@v2.4.2
-        env:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+      - name: Generate GitHub Metrics
+        uses: lowlighter/metrics@latest
         with:
-          BACKGROUND_COLOR: '#00000000'
-          TEXT_COLOR: '#ffffff'
-          ICON_COLOR: '#7B2FBE'
-          BORDER_COLOR: '#ffffff20'
-          INCLUDE_ALL_COMMITS: true
-
-      - name: Commit Changes
-        uses: EndBug/add-and-commit@v9
-        with:
-          add: 'github-stats/'
-          message: 'update stats'
+          token: ${{ secrets.GH_TOKEN }}
